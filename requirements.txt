@@ -1,5 +1,5 @@
 absl-py==0.7.1
-dask==1.2.2
+dask==2021.10.0
 ipython==7.5.0
 numpy==1.16.3
 pandas==0.24.2
