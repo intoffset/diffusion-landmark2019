@@ -1,6 +1,6 @@
 absl-py==0.7.1
 dask==1.2.2
-ipython==7.5.0
+ipython==7.16.3
 numpy==1.16.3
 pandas==0.24.2
 scikit-learn==0.21.2
